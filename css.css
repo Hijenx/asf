@@ -22,7 +22,7 @@ body {
 	padding: 40px 15px;
 	text-transform: uppercase;
 	color: #fff;
-	font-size: 50px;
+	font-size: 30px;
 }
 
 
@@ -57,7 +57,7 @@ body {
 .banner-text span {
 	text-align: center;
 	color: #fff;
-	font-size: 100px;
+	font-size: 12px;
 	position: absolute;
   top: 150px;
   
@@ -91,7 +91,7 @@ body {
 #hack {
   text-align: center;
 	color: #fff;
-	font-size: 100px;
+	font-size: 12px;
 	position: absolute;
   top: 265px;
   left: 120px;
